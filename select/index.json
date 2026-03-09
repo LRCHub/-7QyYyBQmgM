@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Choral A",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2026-03-09T11:08:55.665934Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Choral A",
+      "artist": "Official HIGE DANdism",
+      "has_synced": true,
+      "path": "select/01_Choral_A_Official_HIGE_DANdism.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Choral A",
+      "artist": "Official HIGE DANdism",
+      "has_synced": true,
+      "path": "select/02_Choral_A_Official_HIGE_DANdism.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Choral A",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/03_Choral_A_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Choral A",
+      "artist": "Official HIGE DANdism",
+      "has_synced": true,
+      "path": "select/04_Choral_A_Official_HIGE_DANdism.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Choral A",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/05_Choral_A_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lionsong (Choral Mix & Untold)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/06_Lionsong_(Choral_Mix_&_Untold)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lionsong (Choral Mix ft. Untold)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/07_Lionsong_(Choral_Mix_ft._Untold)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Symphony no. 9 in D minor, op. 125 \"Choral\": IV. Finale: Presto - Allegro assai (excerpt)",
+      "artist": "Ludwig van Beethoven",
+      "has_synced": false,
+      "path": "select/08_Symphony_no._9_in_D_minor,_op._125__Choral__IV._Finale__Presto_-_Allegro_assai_(_Ludwig_van_Beethoven.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Symphony No. 9 In D Minor, Op. 125, \"Choral\": IV. Finale: Presto - Allegro Assai (Excerpt)",
+      "artist": "Beethoven",
+      "has_synced": false,
+      "path": "select/09_Symphony_No._9_In_D_Minor,_Op._125,__Choral__IV._Finale__Presto_-_Allegro_Assai__Beethoven.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Symphony No. 9 in D Minor, Op. 125, \"Choral\": An die Freude",
+      "artist": "London Philharmonic Orchestra",
+      "has_synced": false,
+      "path": "select/10_Symphony_No._9_in_D_Minor,_Op._125,__Choral__An_die_Freude_London_Philharmonic_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Symphony no. 9 in D minor, op. 125 \"Choral\": Ode an die Freude",
+      "artist": "London Philharmonic Orchestra",
+      "has_synced": false,
+      "path": "select/11_Symphony_no._9_in_D_minor,_op._125__Choral__Ode_an_die_Freude_London_Philharmonic_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Beethoven: Symphony No. 9 in D Minor, Op. 125 \"Choral\": IV. Ode to Joy (Excerpt)",
+      "artist": "Ludwig van Beethoven, James Morris, Riccardo Muti & Philadelphia Orchestra",
+      "has_synced": false,
+      "path": "select/12_Beethoven__Symphony_No._9_in_D_Minor,_Op._125__Choral__IV._Ode_to_Joy_(Excerpt)_Ludwig_van_Beethoven,_James_Morris,_Riccardo_Muti_&_Philadelphia_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Beethoven: Symphony No. 9 in D Minor, Op. 125 \"Choral\": IV. Ode to Joy (Excerpt)",
+      "artist": "James Morris",
+      "has_synced": false,
+      "path": "select/13_Beethoven__Symphony_No._9_in_D_Minor,_Op._125__Choral__IV._Ode_to_Joy_(Excerpt)_James_Morris.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Eat Your Young - Bekon's Choral Version",
+      "artist": "Hozier",
+      "has_synced": false,
+      "path": "select/14_Eat_Your_Young_-_Bekon's_Choral_Version_Hozier.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Eat Your Young (Bekon’s Choral version)",
+      "artist": "Hozier",
+      "has_synced": true,
+      "path": "select/15_Eat_Your_Young_(Bekon’s_Choral_version)_Hozier.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Burned LA Down (Choral Version)",
+      "artist": "Noah Cyrus",
+      "has_synced": true,
+      "path": "select/16_I_Burned_LA_Down_(Choral_Version)_Noah_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Meaning (Choral Version)",
+      "artist": "Cascadeur",
+      "has_synced": true,
+      "path": "select/17_Meaning_(Choral_Version)_Cascadeur.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Choral A",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_Choral_A_Official髭男dism.txt"
+    }
+  ]
+}
